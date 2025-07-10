@@ -1,6 +1,8 @@
 # CODSOFT
 Machine learning Internship in Codsoft
-#Task 1
+# Task 1
 * SPAM SMS DETECTION
 # Task 2
-* credit card transactions fraud detection
+* CREDIT CARD FRAUD DETECTION
+# Task 3
+*  CUSTOMER CHURN PREDICTION
